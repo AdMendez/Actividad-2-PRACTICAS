@@ -1,0 +1,12 @@
+C:\Users\nachi\Documents\Actividad_2-API'S\IndiceCorporalApp\IndiceCorporal.Domain\bin\Debug\net5.0\IndiceCorporal.Domain.deps.json
+C:\Users\nachi\Documents\Actividad_2-API'S\IndiceCorporalApp\IndiceCorporal.Domain\bin\Debug\net5.0\IndiceCorporal.Domain.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\IndiceCorporalApp\IndiceCorporal.Domain\bin\Debug\net5.0\ref\IndiceCorporal.Domain.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\IndiceCorporalApp\IndiceCorporal.Domain\bin\Debug\net5.0\IndiceCorporal.Domain.pdb
+C:\Users\nachi\Documents\Actividad_2-API'S\IndiceCorporalApp\IndiceCorporal.Domain\obj\Debug\net5.0\IndiceCorporal.Domain.csproj.AssemblyReference.cache
+C:\Users\nachi\Documents\Actividad_2-API'S\IndiceCorporalApp\IndiceCorporal.Domain\obj\Debug\net5.0\IndiceCorporal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nachi\Documents\Actividad_2-API'S\IndiceCorporalApp\IndiceCorporal.Domain\obj\Debug\net5.0\IndiceCorporal.Domain.AssemblyInfoInputs.cache
+C:\Users\nachi\Documents\Actividad_2-API'S\IndiceCorporalApp\IndiceCorporal.Domain\obj\Debug\net5.0\IndiceCorporal.Domain.AssemblyInfo.cs
+C:\Users\nachi\Documents\Actividad_2-API'S\IndiceCorporalApp\IndiceCorporal.Domain\obj\Debug\net5.0\IndiceCorporal.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nachi\Documents\Actividad_2-API'S\IndiceCorporalApp\IndiceCorporal.Domain\obj\Debug\net5.0\IndiceCorporal.Domain.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\IndiceCorporalApp\IndiceCorporal.Domain\obj\Debug\net5.0\ref\IndiceCorporal.Domain.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\IndiceCorporalApp\IndiceCorporal.Domain\obj\Debug\net5.0\IndiceCorporal.Domain.pdb

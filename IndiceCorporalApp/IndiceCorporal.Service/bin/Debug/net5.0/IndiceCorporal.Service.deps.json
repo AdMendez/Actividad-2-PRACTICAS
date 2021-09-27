@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IndiceCorporal.Service/1.0.0": {
+        "dependencies": {
+          "IndiceCorporal.Domain": "1.0.0",
+          "IndiceCorporal.Infraestructure": "1.0.0"
+        },
+        "runtime": {
+          "IndiceCorporal.Service.dll": {}
+        }
+      },
+      "IndiceCorporal.Domain/1.0.0": {
+        "runtime": {
+          "IndiceCorporal.Domain.dll": {}
+        }
+      },
+      "IndiceCorporal.Infraestructure/1.0.0": {
+        "dependencies": {
+          "IndiceCorporal.Domain": "1.0.0"
+        },
+        "runtime": {
+          "IndiceCorporal.Infraestructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IndiceCorporal.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IndiceCorporal.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IndiceCorporal.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

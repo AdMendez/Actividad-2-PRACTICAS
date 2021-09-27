@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "IndiceCorporal.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/IndiceCorporal.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IndiceCorporal.Domain.dll": {}
+        }
+      },
+      "IndiceCorporal.Infraestructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "IndiceCorporal.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IndiceCorporal.Infraestructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IndiceCorporal.Infraestructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IndiceCorporal.Domain/1.0.0": {
+      "type": "project",
+      "path": "../IndiceCorporal.Domain/IndiceCorporal.Domain.csproj",
+      "msbuildProject": "../IndiceCorporal.Domain/IndiceCorporal.Domain.csproj"
+    },
+    "IndiceCorporal.Infraestructure/1.0.0": {
+      "type": "project",
+      "path": "../IndiceCorporal.Infraestructure/IndiceCorporal.Infraestructure.csproj",
+      "msbuildProject": "../IndiceCorporal.Infraestructure/IndiceCorporal.Infraestructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "IndiceCorporal.Domain >= 1.0.0",
+      "IndiceCorporal.Infraestructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nachi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\IndiceCorporalApp\\IndiceCorporal.Service\\IndiceCorporal.Service.csproj",
+      "projectName": "IndiceCorporal.Service",
+      "projectPath": "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\IndiceCorporalApp\\IndiceCorporal.Service\\IndiceCorporal.Service.csproj",
+      "packagesPath": "C:\\Users\\nachi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\IndiceCorporalApp\\IndiceCorporal.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\nachi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\IndiceCorporalApp\\IndiceCorporal.Domain\\IndiceCorporal.Domain.csproj": {
+              "projectPath": "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\IndiceCorporalApp\\IndiceCorporal.Domain\\IndiceCorporal.Domain.csproj"
+            },
+            "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\IndiceCorporalApp\\IndiceCorporal.Infraestructure\\IndiceCorporal.Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\IndiceCorporalApp\\IndiceCorporal.Infraestructure\\IndiceCorporal.Infraestructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
