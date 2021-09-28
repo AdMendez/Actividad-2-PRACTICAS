@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Palindromos.Service/1.0.0": {
+        "dependencies": {
+          "Palindromos.Domain": "1.0.0",
+          "Palindromos.Infraestructure": "1.0.0"
+        },
+        "runtime": {
+          "Palindromos.Service.dll": {}
+        }
+      },
+      "Palindromos.Domain/1.0.0": {
+        "runtime": {
+          "Palindromos.Domain.dll": {}
+        }
+      },
+      "Palindromos.Infraestructure/1.0.0": {
+        "dependencies": {
+          "Palindromos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Palindromos.Infraestructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Palindromos.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Palindromos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Palindromos.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

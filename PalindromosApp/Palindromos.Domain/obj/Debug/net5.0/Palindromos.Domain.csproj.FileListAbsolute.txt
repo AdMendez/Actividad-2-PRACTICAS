@@ -1,0 +1,12 @@
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Domain\bin\Debug\net5.0\Palindromos.Domain.deps.json
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Domain\bin\Debug\net5.0\Palindromos.Domain.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Domain\bin\Debug\net5.0\ref\Palindromos.Domain.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Domain\bin\Debug\net5.0\Palindromos.Domain.pdb
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Domain\obj\Debug\net5.0\Palindromos.Domain.csproj.AssemblyReference.cache
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Domain\obj\Debug\net5.0\Palindromos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Domain\obj\Debug\net5.0\Palindromos.Domain.AssemblyInfoInputs.cache
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Domain\obj\Debug\net5.0\Palindromos.Domain.AssemblyInfo.cs
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Domain\obj\Debug\net5.0\Palindromos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Domain\obj\Debug\net5.0\Palindromos.Domain.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Domain\obj\Debug\net5.0\ref\Palindromos.Domain.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Domain\obj\Debug\net5.0\Palindromos.Domain.pdb

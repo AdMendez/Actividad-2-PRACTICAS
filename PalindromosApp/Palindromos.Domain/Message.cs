@@ -2,7 +2,5 @@
 
 namespace Palindromos.Domain
 {
-    public class Class1
-    {
-    }
+    public record Message (string Summary);
 }

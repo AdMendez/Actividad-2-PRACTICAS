@@ -17,7 +17,7 @@ namespace IndiceCorporal.Api.Controllers
             var ps = 55;
             var al = 1.62;
             var imc = ps / (al * al);
-            var cc = "comprobacion";
+            var cc = "";
             if (imc < 18.5)
             {
                 cc = "peso inferior al normal.";

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Palindromos.Domain/1.0.0": {
+        "runtime": {
+          "Palindromos.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Palindromos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

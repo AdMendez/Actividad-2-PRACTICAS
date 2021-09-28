@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Palindromos.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Palindromos.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palindromos.Domain.dll": {}
+        }
+      },
+      "Palindromos.Infraestructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Palindromos.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Palindromos.Infraestructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palindromos.Infraestructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Palindromos.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Palindromos.Domain/Palindromos.Domain.csproj",
+      "msbuildProject": "../Palindromos.Domain/Palindromos.Domain.csproj"
+    },
+    "Palindromos.Infraestructure/1.0.0": {
+      "type": "project",
+      "path": "../Palindromos.Infraestructure/Palindromos.Infraestructure.csproj",
+      "msbuildProject": "../Palindromos.Infraestructure/Palindromos.Infraestructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Palindromos.Domain >= 1.0.0",
+      "Palindromos.Infraestructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\nachi\\.nuget\\packages\\": {}
@@ -33,7 +71,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\PalindromosApp\\Palindromos.Domain\\Palindromos.Domain.csproj": {
+              "projectPath": "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\PalindromosApp\\Palindromos.Domain\\Palindromos.Domain.csproj"
+            },
+            "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\PalindromosApp\\Palindromos.Infraestructure\\Palindromos.Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\PalindromosApp\\Palindromos.Infraestructure\\Palindromos.Infraestructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

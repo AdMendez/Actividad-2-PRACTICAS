@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Palindromos.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Palindromos.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palindromos.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Palindromos.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Palindromos.Domain/Palindromos.Domain.csproj",
+      "msbuildProject": "../Palindromos.Domain/Palindromos.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Palindromos.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\nachi\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\PalindromosApp\\Palindromos.Domain\\Palindromos.Domain.csproj": {
+              "projectPath": "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\PalindromosApp\\Palindromos.Domain\\Palindromos.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -75,6 +75,43 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Palindromos.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Palindromos.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palindromos.Domain.dll": {}
+        }
+      },
+      "Palindromos.Infraestructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Palindromos.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Palindromos.Infraestructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palindromos.Infraestructure.dll": {}
+        }
+      },
+      "Palindromos.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Palindromos.Domain": "1.0.0",
+          "Palindromos.Infraestructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Palindromos.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palindromos.Service.dll": {}
+        }
       }
     }
   },
@@ -185,10 +222,27 @@
         "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Palindromos.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Palindromos.Domain/Palindromos.Domain.csproj",
+      "msbuildProject": "../Palindromos.Domain/Palindromos.Domain.csproj"
+    },
+    "Palindromos.Infraestructure/1.0.0": {
+      "type": "project",
+      "path": "../Palindromos.Infraestructure/Palindromos.Infraestructure.csproj",
+      "msbuildProject": "../Palindromos.Infraestructure/Palindromos.Infraestructure.csproj"
+    },
+    "Palindromos.Service/1.0.0": {
+      "type": "project",
+      "path": "../Palindromos.Service/Palindromos.Service.csproj",
+      "msbuildProject": "../Palindromos.Service/Palindromos.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Palindromos.Domain >= 1.0.0",
+      "Palindromos.Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -218,7 +272,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\PalindromosApp\\Palindromos.Domain\\Palindromos.Domain.csproj": {
+              "projectPath": "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\PalindromosApp\\Palindromos.Domain\\Palindromos.Domain.csproj"
+            },
+            "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\PalindromosApp\\Palindromos.Service\\Palindromos.Service.csproj": {
+              "projectPath": "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\PalindromosApp\\Palindromos.Service\\Palindromos.Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

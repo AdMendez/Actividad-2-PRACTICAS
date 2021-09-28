@@ -1,0 +1,15 @@
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Infraestructure\bin\Debug\net5.0\Palindromos.Infraestructure.deps.json
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Infraestructure\bin\Debug\net5.0\Palindromos.Infraestructure.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Infraestructure\bin\Debug\net5.0\ref\Palindromos.Infraestructure.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Infraestructure\bin\Debug\net5.0\Palindromos.Infraestructure.pdb
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Infraestructure\bin\Debug\net5.0\Palindromos.Domain.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Infraestructure\bin\Debug\net5.0\Palindromos.Domain.pdb
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Infraestructure\obj\Debug\net5.0\Palindromos.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Infraestructure\obj\Debug\net5.0\Palindromos.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Infraestructure\obj\Debug\net5.0\Palindromos.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Infraestructure\obj\Debug\net5.0\Palindromos.Infraestructure.AssemblyInfo.cs
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Infraestructure\obj\Debug\net5.0\Palindromos.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Infraestructure\obj\Debug\net5.0\Palindromos.Infraestructure.csproj.CopyComplete
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Infraestructure\obj\Debug\net5.0\Palindromos.Infraestructure.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Infraestructure\obj\Debug\net5.0\ref\Palindromos.Infraestructure.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\PalindromosApp\Palindromos.Infraestructure\obj\Debug\net5.0\Palindromos.Infraestructure.pdb
