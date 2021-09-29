@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Anagrama.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Anagrama.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Anagrama.Domain.dll": {}
+        }
+      },
+      "Anagrama.Infraestructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Anagrama.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Anagrama.Infraestructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Anagrama.Infraestructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Anagrama.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Anagrama.Domain/Anagrama.Domain.csproj",
+      "msbuildProject": "../Anagrama.Domain/Anagrama.Domain.csproj"
+    },
+    "Anagrama.Infraestructure/1.0.0": {
+      "type": "project",
+      "path": "../Anagrama.Infraestructure/Anagrama.Infraestructure.csproj",
+      "msbuildProject": "../Anagrama.Infraestructure/Anagrama.Infraestructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Anagrama.Domain >= 1.0.0",
+      "Anagrama.Infraestructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\nachi\\.nuget\\packages\\": {},
@@ -38,7 +76,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\AnagramaApp\\Anagrama.Domain\\Anagrama.Domain.csproj": {
+              "projectPath": "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\AnagramaApp\\Anagrama.Domain\\Anagrama.Domain.csproj"
+            },
+            "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\AnagramaApp\\Anagrama.Infraestructure\\Anagrama.Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\nachi\\Documents\\Actividad_2-API'S\\AnagramaApp\\Anagrama.Infraestructure\\Anagrama.Infraestructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

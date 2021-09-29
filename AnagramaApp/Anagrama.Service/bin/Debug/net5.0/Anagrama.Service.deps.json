@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Anagrama.Service/1.0.0": {
+        "dependencies": {
+          "Anagrama.Domain": "1.0.0",
+          "Anagrama.Infraestructure": "1.0.0"
+        },
+        "runtime": {
+          "Anagrama.Service.dll": {}
+        }
+      },
+      "Anagrama.Domain/1.0.0": {
+        "runtime": {
+          "Anagrama.Domain.dll": {}
+        }
+      },
+      "Anagrama.Infraestructure/1.0.0": {
+        "dependencies": {
+          "Anagrama.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Anagrama.Infraestructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Anagrama.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Anagrama.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Anagrama.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

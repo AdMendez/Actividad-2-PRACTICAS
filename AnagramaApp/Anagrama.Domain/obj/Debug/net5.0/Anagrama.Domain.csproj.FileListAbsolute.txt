@@ -1,0 +1,12 @@
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Domain\bin\Debug\net5.0\Anagrama.Domain.deps.json
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Domain\bin\Debug\net5.0\Anagrama.Domain.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Domain\bin\Debug\net5.0\ref\Anagrama.Domain.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Domain\bin\Debug\net5.0\Anagrama.Domain.pdb
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Domain\obj\Debug\net5.0\Anagrama.Domain.csproj.AssemblyReference.cache
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Domain\obj\Debug\net5.0\Anagrama.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Domain\obj\Debug\net5.0\Anagrama.Domain.AssemblyInfoInputs.cache
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Domain\obj\Debug\net5.0\Anagrama.Domain.AssemblyInfo.cs
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Domain\obj\Debug\net5.0\Anagrama.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Domain\obj\Debug\net5.0\Anagrama.Domain.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Domain\obj\Debug\net5.0\ref\Anagrama.Domain.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Domain\obj\Debug\net5.0\Anagrama.Domain.pdb

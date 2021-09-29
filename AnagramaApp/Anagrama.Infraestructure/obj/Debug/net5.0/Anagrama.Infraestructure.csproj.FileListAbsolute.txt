@@ -1,0 +1,15 @@
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Infraestructure\bin\Debug\net5.0\Anagrama.Infraestructure.deps.json
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Infraestructure\bin\Debug\net5.0\Anagrama.Infraestructure.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Infraestructure\bin\Debug\net5.0\ref\Anagrama.Infraestructure.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Infraestructure\bin\Debug\net5.0\Anagrama.Infraestructure.pdb
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Infraestructure\bin\Debug\net5.0\Anagrama.Domain.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Infraestructure\bin\Debug\net5.0\Anagrama.Domain.pdb
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Infraestructure\obj\Debug\net5.0\Anagrama.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Infraestructure\obj\Debug\net5.0\Anagrama.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Infraestructure\obj\Debug\net5.0\Anagrama.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Infraestructure\obj\Debug\net5.0\Anagrama.Infraestructure.AssemblyInfo.cs
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Infraestructure\obj\Debug\net5.0\Anagrama.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Infraestructure\obj\Debug\net5.0\Anagrama.Infraestructure.csproj.CopyComplete
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Infraestructure\obj\Debug\net5.0\Anagrama.Infraestructure.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Infraestructure\obj\Debug\net5.0\ref\Anagrama.Infraestructure.dll
+C:\Users\nachi\Documents\Actividad_2-API'S\AnagramaApp\Anagrama.Infraestructure\obj\Debug\net5.0\Anagrama.Infraestructure.pdb
